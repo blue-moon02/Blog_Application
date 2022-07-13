@@ -32,8 +32,3 @@ Click on the `Open Blog`, UI looks like:
 
 https://user-images.githubusercontent.com/108760924/178850683-a31b1863-a5db-42a2-8207-1aaacb32283b.mp4
 
-
-
-
-https://user-images.githubusercontent.com/108760924/178850653-eeabfae4-4adc-4d01-b999-79f03f840370.mp4
-
