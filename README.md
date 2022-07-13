@@ -16,17 +16,17 @@ To understand the concept of the localstorage, how localstorage persist the data
 
 ## ScreenShot
 
-<img src=".res/ss1.png" />
+<img src="./res/ss1.png" />
 
 Click on the `Add New`, UI looks like:
 
 
-<img src=".res/ss2.png" />
+<img src="./res/ss2.png" />
 
 Click on the `Open Blog`, UI looks like:
 
 
-<img src=".res/ss3.png" />
+<img src="./res/ss3.png" />
 
 ## Live Demo
 
